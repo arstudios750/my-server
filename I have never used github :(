@@ -1,0 +1,13 @@
+using System;
+public class Program {
+    public static void Main(string[] args) {
+        var a = 19;
+        var b = 3939;
+        
+        
+        // Don't change below
+        Console.WriteLine("a: " + a);
+        Console.WriteLine("b: " + b);
+        
+    }
+}
