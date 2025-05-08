@@ -1,4 +1,13 @@
+using System;
+namespace hi
 {
-  "version": "1.1.0",
-  "updateUrl": "https://yourserver.com/update.zip"
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string message = "Hello World!!";
+
+            Console.WriteLine(message);
+        }
+    }
 }
